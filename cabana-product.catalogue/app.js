@@ -1,4 +1,4 @@
-fetch('cabana-product.catalog/data.json')
+fetch('cabana-product.catalogue/data.json')
 .then(response => response.json())
 .then(products => {
     const productListContainer = document.getElementById('productList');
