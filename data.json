@@ -1,0 +1,20 @@
+[
+    {
+      "product_id": 1,
+      "product_name": "Pancit Canton",
+      "product_description": "Sweet and Spicy",
+      "product_price": 15.00
+    },
+    {
+      "product_id": 2,
+      "product_name": "Turon with cheese",
+      "product_description": "Sweet and salty",
+      "product_price": 10.00
+    },
+    {
+      "product_id": 3,
+      "product_name": "Siomai",
+      "product_description": "sweet and Spicy",
+      "product_price": 25.00
+    }
+  ]
