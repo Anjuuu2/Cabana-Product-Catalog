@@ -1,20 +1,23 @@
 [
     {
       "product_id": 1,
-      "product_name": "Pancit Canton",
-      "product_description": "Sweet and Spicy",
-      "product_price": 15.00
+      "product_name": "MAXX CANDY",
+      "product_description": "Maxx Eucalyptus Menthol Candy for MAXXimum Menthol Satisfaction",
+      "product_price": 2.00
+      
     },
     {
       "product_id": 2,
-      "product_name": "Turon with cheese",
-      "product_description": "Sweet and salty",
-      "product_price": 10.00
+      "product_name": "SNOWBEAR CANDY",
+      "product_description": "Snowbear Menthol Candy",
+      "product_price": 2.00
+
     },
     {
       "product_id": 3,
-      "product_name": "Siomai",
-      "product_description": "sweet and Spicy",
-      "product_price": 25.00
+      "product_name": "WHITE RABBIT CANDY",
+      "product_description": "A tin of White Rabbit Creamy Candy",
+      "product_price": 2.00
+     
     }
   ]
