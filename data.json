@@ -1,0 +1,29 @@
+[
+    {
+        "product_name": "Kwek Kwek",
+        "product_description": "SWEET AND SOUR",
+        "product_price": 20.00,
+        "product_dateAdded": "FEBRUARY 08, 2024",
+        "product_image": "https://1.bp.blogspot.com/-XElq1zEbz8Q/VGRRQvbyprI/AAAAAAAAHUg/ckBTNsP2yOU/s1600/056.JPG"
+    },
+    {
+        "product_name": "Isaw",
+        "product_description": "SWEET AND SPICY",
+        "product_price": 8.00,
+        "product_dateAdded": "FEBRUARY 08, 2024",
+        "product_image": "https://cdn.phonebooky.com/blog/wp-content/uploads/2018/03/21141246/isaw.jpg"
+    },
+    {
+        "product_name": "Buko Juice",
+        "product_description": "SWEET AND REFRESHING",
+        "product_price": 10.00,
+        "product_dateAdded": "FEBRUARY 08, 2024",
+        "product_image": "https://i1.wp.com/angsarap.net/wp-content/uploads/2011/12/buko-juice.jpg"
+    },
+    {
+        "product_name": "Siomai",
+        "product_description": "SWEET AND SOUR",
+        "product_price": 20.00,
+        "product_dateAdded": "FEBRUARY 08, 2024",
+        "product_image": "https://3.bp.blogspot.com/-aHApZ96pVhE/UWoZPu0Qi7I/AAAAAAAABLs/TUxH1dV8hLY/s1600/DSC_0395.JPG"
+    }
